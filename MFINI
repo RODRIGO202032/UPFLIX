@@ -1,0 +1,30 @@
+ 
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+ 
+<channels>
+ 
+   
+<channel>
+<name>[COLOR yellow][B]LANCAMENTOS[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR yellow][B]ANIMACAO[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR yellow][B]TERROR[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
