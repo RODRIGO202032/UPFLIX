@@ -20,11 +20,19 @@
 <fanart></fanart>
 <info></info>
 </channel>
+ 
+<channel>
+<name>[COLOR yellow][B]AVENTURA[/B][/COLOR]</name>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/001/193/737/original/skull-pirate-png.png</thumbnail>
+<externallink></externallink>
+<fanart>https://p4.wallpaperbetter.com/wallpaper/869/532/916/pirates-flag-wallpaper-preview.jpg</fanart>
+<info></info>
+</channel>
 
 <channel>
 <name>[COLOR yellow][B]TERROR[/B][/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://static.vecteezy.com/system/resources/previews/001/193/737/original/skull-pirate-png.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RODRIGO202032/UPFLIX/main/MFTE</externallink>
+<fanart>https://p4.wallpaperbetter.com/wallpaper/869/532/916/pirates-flag-wallpaper-preview.jpg</fanart>
 <info></info>
 </channel>
